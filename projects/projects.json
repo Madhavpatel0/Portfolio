@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Talent-IQ",
+    "desc": "Full-stack MERN application for talent assessment and management with modern UI and real-time features.",
+    "image": "talentiq",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Madhavpatel0/talent-Code.git",
+      "code": "https://github.com/Madhavpatel0/talent-Code.git"
+    }
+  },
+  {
+    "name": "Bharat Darpan",
+    "desc": "MERN-based platform showcasing Indian culture, heritage, and historical insights with interactive UI.",
+    "image": "bharatdarpan",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Madhavpatel0/Bharat-Darpan.git",
+      "code": "https://github.com/Madhavpatel0/Bharat-Darpan.git"
+    }
+  },
+  {
+    "name": "SwasthyaSetu",
+    "desc": "Healthcare web application built using MERN stack for managing health data and services.",
+    "image": "swasthyasetu",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Madhavpatel0/",
+      "code": "https://github.com/Madhavpatel0/"
+    }
+  },
+  {
+    "name": "Self Identity Mental Health Disorder",
+    "desc": "Basic web project focused on mental health awareness with interactive UI using HTML, CSS, JS.",
+    "image": "simhd",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Madhavpatel0/Self-Identify-Mental-Health.git",
+      "code": "https://github.com/Madhavpatel0/Self-Identify-Mental-Health.git"
+    }
+  },
+  {
+    "name": "College Placement System",
+    "desc": "Web-based system to manage student placements, company data, and recruitment processes.",
+    "image": "cps",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Madhavpatel0/College-Placement-System.git",
+      "code": "https://github.com/Madhavpatel0/College-Placement-System.git"
+    }
+  },
+  {
+    "name": "Todo App",
+    "desc": "Simple task management app using HTML, CSS, and JavaScript with CRUD functionality.",
+    "image": "todoapp",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/Madhavpatel0/TodoApp.git",
+      "code": "https://github.com/Madhavpatel0/TodoApp.git"
+    }
+  }
+]
